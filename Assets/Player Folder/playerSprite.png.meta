@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 0ffb6955aac15fe43a2fb3081094b39f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: head
+  - first:
+      213: 21300002
+    second: scarf
+  - first:
+      213: 21300004
+    second: scarf_01
+  - first:
+      213: 21300006
+    second: scarf_02
+  - first:
+      213: 21300008
+    second: sword
+  - first:
+      213: 21300010
+    second: scarf_03
+  - first:
+      213: 21300012
+    second: scarf_04
+  - first:
+      213: 21300014
+    second: body
+  - first:
+      213: 21300016
+    second: L_leg
+  - first:
+      213: 21300018
+    second: R_leg
+  - first:
+      213: 21300020
+    second: scarf_05
+  - first:
+      213: 21300022
+    second: scarf_06
+  - first:
+      213: 21300024
+    second: playerSprite_12
+  - first:
+      213: 21300026
+    second: L_wing
+  - first:
+      213: 21300028
+    second: B_wing
+  - first:
+      213: 21300030
+    second: R_wing
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2841
+        width: 929
+        height: 1178
+      alignment: 9
+      pivot: {x: 0.55311394, y: 0.03924488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 264.03296, y: 589}
+        - {x: -321.50952, y: 589}
+        - {x: -458.01636, y: 510.61322}
+        - {x: -464.5, y: 104.547386}
+        - {x: -464.5, y: -531.5027}
+        - {x: -134.7107, y: -588.9987}
+        - {x: 310.73267, y: -588.9987}
+        - {x: 464.5, y: -513.53516}
+        - {x: 464.5, y: -330.26648}
+        - {x: 396.9475, y: 568.10925}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarf
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 3703
+        width: 531
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -226.17847, y: 151}
+        - {x: -265.5, y: 111.293755}
+        - {x: -265.5, y: -122.28394}
+        - {x: -201.03247, y: -151}
+        - {x: 133.05005, y: -151}
+        - {x: 265.5, y: -122.28394}
+        - {x: 265.5, y: 114.88726}
+        - {x: 3.727785, y: 151}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarf_01
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3750
+        width: 837
+        height: 276
+      alignment: 9
+      pivot: {x: 0.9606849, y: 0.34896365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 206.20471, y: 124.155266}
+        - {x: 105.62072, y: 138}
+        - {x: -418.5, y: 138}
+        - {x: -418.5, y: -138}
+        - {x: 87.6593, y: -138}
+        - {x: 407.37268, y: -87.86141}
+        - {x: 418.5, y: -55.519886}
+        - {x: 418.5, y: -12.397849}
+        - {x: 418.14954, y: -8.804346}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarf_02
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 3678
+        width: 984
+        height: 415
+      alignment: 9
+      pivot: {x: 0.95540833, y: 0.90179014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -492, y: -73.61724}
+        - {x: -431.1198, y: -206.57686}
+        - {x: -237.13641, y: -206.57686}
+        - {x: 362.77518, y: 1.8463202}
+        - {x: 492, y: 116.83842}
+        - {x: 492, y: 207.5}
+        - {x: -0.045605183, y: 207.5}
+        - {x: -492, y: 106.05791}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 3768
+        width: 2299
+        height: 280
+      alignment: 9
+      pivot: {x: 0.9563253, y: 0.5326634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1138.4689, y: 140}
+        - {x: -1149.2457, y: 129.57799}
+        - {x: -1149.2457, y: -96.81271}
+        - {x: -876.23206, y: -139.93475}
+        - {x: 1049.2327, y: -139.93475}
+        - {x: 1149.5, y: -111.18672}
+        - {x: 1149.5, y: 140}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarf_03
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 3247
+        width: 744
+        height: 284
+      alignment: 9
+      pivot: {x: 0.9376821, y: 0.1400198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -371.85303, y: 142}
+        - {x: -371.85303, y: -8.713762}
+        - {x: -328.7456, y: -141.67337}
+        - {x: 372, y: -141.67337}
+        - {x: 372, y: -23.087774}
+        - {x: -167.09277, y: 142}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarf_04
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 3168
+        width: 845
+        height: 456
+      alignment: 9
+      pivot: {x: 0.9570636, y: 0.92348546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 292.32614, y: 228}
+        - {x: -329.13916, y: 102.74186}
+        - {x: -422.5, y: -15.843742}
+        - {x: -422.5, y: -141.61635}
+        - {x: -379.43115, y: -213.4864}
+        - {x: -368.6543, y: -227.86043}
+        - {x: -135.15578, y: -227.86043}
+        - {x: 349.8027, y: 5.7172756}
+        - {x: 422.5, y: 127.89638}
+        - {x: 422.5, y: 206.95345}
+        - {x: 414.46384, y: 228}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1482
+        width: 514
+        height: 1136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.036688145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -257, y: 118.2656}
+        - {x: -257, y: -535.75195}
+        - {x: -228.3828, y: -568}
+        - {x: 163.17627, y: -568}
+        - {x: 257, y: -528.56494}
+        - {x: 257, y: 233.25769}
+        - {x: 206.28369, y: 553.07947}
+        - {x: 120.06885, y: 568}
+        - {x: -217.60594, y: 568}
+        - {x: -235.56737, y: 549.48596}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_leg
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1543
+        width: 262
+        height: 1042
+      alignment: 9
+      pivot: {x: 0.65694237, y: 0.92618495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.286136, y: 521}
+        - {x: -131, y: 466.7458}
+        - {x: -131, y: -449.59747}
+        - {x: -113.4624, y: -521}
+        - {x: -59.578125, y: -521}
+        - {x: 58.96728, y: -284.29636}
+        - {x: 131, y: 157.70454}
+        - {x: 131, y: 521}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_leg
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1544
+        width: 204
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5403131, y: 0.9278273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.34375, y: 519}
+        - {x: -98.45117, y: 494.6971}
+        - {x: -102, y: 483.9166}
+        - {x: -102, y: 49.10273}
+        - {x: 16.50195, y: -518.6708}
+        - {x: 99.124504, y: -518.6708}
+        - {x: 102, y: -421.64618}
+        - {x: 102, y: 494.6971}
+        - {x: 81.16308, y: 519}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarf_05
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2525
+        width: 863
+        height: 330
+      alignment: 9
+      pivot: {x: 0.9387552, y: 0.90159434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.78139, y: 165}
+        - {x: -431.5, y: 104.7757}
+        - {x: -431.5, y: -42.55792}
+        - {x: -402.79504, y: -164.73703}
+        - {x: -284.24963, y: -164.73703}
+        - {x: 229.44713, y: -17.403399}
+        - {x: 431.5, y: 79.621185}
+        - {x: 431.5, y: 137.11723}
+        - {x: 398.28452, y: 165}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarf_06
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 2557
+        width: 887
+        height: 557
+      alignment: 9
+      pivot: {x: 0.9521, y: 0.92700064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 281.81107, y: 278.5}
+        - {x: -443.5, y: -59.07018}
+        - {x: -443.5, y: -148.90776}
+        - {x: -379.16937, y: -278.27386}
+        - {x: -66.64057, y: -278.27386}
+        - {x: 443.5, y: 102.63746}
+        - {x: 443.5, y: 278.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSprite_12
+      rect:
+        serializedVersion: 2
+        x: 5408
+        y: 0
+        width: 1949
+        height: 3218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -258.8296, y: 1609}
+        - {x: -309.12158, y: 1534.4258}
+        - {x: -891.0718, y: 398.87885}
+        - {x: -779.71094, y: 255.13872}
+        - {x: -729.41895, y: 233.5777}
+        - {x: -682.71924, y: 222.7972}
+        - {x: -973.69434, y: 186.86217}
+        - {x: -973.69434, y: 3.593503}
+        - {x: -934.1792, y: -140.14662}
+        - {x: -765.3418, y: -64.68305}
+        - {x: -876.70264, y: -776.19666}
+        - {x: -837.1875, y: -858.8472}
+        - {x: -474.36667, y: -700.7331}
+        - {x: -474.36667, y: -1185.856}
+        - {x: -176.20702, y: -1609}
+        - {x: 721.86426, y: -1609}
+        - {x: 974.5, y: -1060.0834}
+        - {x: 974.5, y: 1343.9701}
+        - {x: 560.2114, y: 1609}
+      - - {x: -147.46873, y: 420.43985}
+        - {x: -154.6533, y: 427.62686}
+        - {x: -194.16844, y: 449.1879}
+        - {x: -222.90672, y: 463.5619}
+        - {x: -240.86815, y: 477.9359}
+        - {x: -266.01416, y: 481.52942}
+        - {x: -255.23729, y: 474.3424}
+        - {x: -215.72215, y: 474.3424}
+        - {x: -212.12987, y: 470.7489}
+        - {x: -97.17675, y: 427.62686}
+        - {x: -97.17675, y: 391.69183}
+        - {x: -93.584465, y: 391.69183}
+        - {x: -97.17675, y: 395.28534}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_wing
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 599
+        width: 948
+        height: 1792
+      alignment: 9
+      pivot: {x: 0.7515717, y: 0.9130252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125.60676, y: 896}
+        - {x: -395.27457, y: 315.11325}
+        - {x: -474, y: -396.40036}
+        - {x: -474, y: -895.8973}
+        - {x: 17.838203, y: -895.8973}
+        - {x: 197.45245, y: -859.9623}
+        - {x: 474, y: 257.6172}
+        - {x: 474, y: 896}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_wing
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 1292
+        width: 1116
+        height: 905
+      alignment: 9
+      pivot: {x: 0.58105886, y: 0.8180471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 232.60155, y: 452.5}
+        - {x: 52.9873, y: 452.5}
+        - {x: -198.47266, y: 266.05487}
+        - {x: -557.7012, y: -204.69402}
+        - {x: -557.7012, y: -452.5}
+        - {x: 383.47754, y: -452.5}
+        - {x: 558, y: -301.7186}
+        - {x: 558, y: -136.41747}
+        - {x: 383.47754, y: 219.33934}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_wing
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 904
+        width: 669
+        height: 1401
+      alignment: 9
+      pivot: {x: 0.35248798, y: 0.916766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.27699, y: 679.40607}
+        - {x: 6.800434, y: 700.5}
+        - {x: -219.51352, y: 700.5}
+        - {x: -334.46664, y: 445.82834}
+        - {x: -334.46664, y: -96.79061}
+        - {x: 190.00697, y: -700.49915}
+        - {x: 334.5, y: -700.49915}
+        - {x: 334.5, y: -632.2226}
+        - {x: 301.3678, y: -305.2138}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
